@@ -1,0 +1,6 @@
+classes= 4
+train=data/ship/train.txt
+valid=data/ship/test.txt
+names=data/ship.names
+backup=backup/
+eval=ship
